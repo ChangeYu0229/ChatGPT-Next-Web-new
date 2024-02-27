@@ -1,7 +1,7 @@
 export const OWNER = "Yidadaa1";
 export const REPO = "ChatGPT-Next-Web1";
-export const REPO_URL = `https://github.com/${OWNER}/${REPO}`;
-export const ISSUE_URL = `https://github.com/${OWNER}/${REPO}/issues`;
+export const REPO_URL = `https://www.gtp666.top/`;
+export const ISSUE_URL = `https://www.gtp666.top/`;
 export const UPDATE_URL = `${REPO_URL}#keep-updated`;
 export const RELEASE_URL = `${REPO_URL}/releases`;
 export const FETCH_COMMIT_URL = `https://api.github.com/repos/${OWNER}/${REPO}/commits?per_page=1`;
